@@ -7,3 +7,5 @@ Some changes to README.md
 EXTRA CHANGES TO THIS FILE
 
 Changes on another branch
+
+MERGE
